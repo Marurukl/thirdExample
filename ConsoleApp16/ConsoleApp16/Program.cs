@@ -10,7 +10,7 @@ namespace ConsoleApp16
     {
         static void Main(string[] args)
         {
-            ThirdExample menu = new ThirdExample();
+            FiveExample menu = new FiveExample();
             menu.Handler();
         }
     }

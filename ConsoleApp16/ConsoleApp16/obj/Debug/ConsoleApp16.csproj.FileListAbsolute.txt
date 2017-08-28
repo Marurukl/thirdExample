@@ -4,3 +4,9 @@ c:\users\закарьянова\documents\visual studio 2017\Projects\ConsoleApp
 c:\users\закарьянова\documents\visual studio 2017\Projects\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csprojResolveAssemblyReference.cache
 c:\users\закарьянова\documents\visual studio 2017\Projects\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
 c:\users\закарьянова\documents\visual studio 2017\Projects\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
+C:\Users\закарьянова\Documents\Новая папка\thirdExample\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+C:\Users\закарьянова\Documents\Новая папка\thirdExample\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+C:\Users\закарьянова\Documents\Новая папка\thirdExample\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+C:\Users\закарьянова\Documents\Новая папка\thirdExample\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова\Documents\Новая папка\thirdExample\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+C:\Users\закарьянова\Documents\Новая папка\thirdExample\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
